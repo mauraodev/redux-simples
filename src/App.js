@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './App.css';
 import Intervalo from './components/Intervalo';
 import Media from './components/Media';
